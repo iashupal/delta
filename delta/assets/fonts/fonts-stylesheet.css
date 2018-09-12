@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'Trade Gothic LT Std';
+    src: url('TradeGothicLTStd.otf');
+    font-style: normal;
+
+}
+
+@font-face{
+    font-family: 'Trade Gothic LT Light';
+    src: url('TradeGothicLTStd.otf');
+    font-style: normal;
+  
+}
+
+@font-face{
+    font-family: 'Trade Gothic LT Bold';
+    src: url('TradeGothicLTStd.otf');
+    font-style: normal;
+   
+}
